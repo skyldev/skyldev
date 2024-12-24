@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey!👋 I'm Rae
 
 ### Get to know me.
 - 🔭 I’m currently working on BskyUsers
