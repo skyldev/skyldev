@@ -1,10 +1,46 @@
-## Hey!👋 I'm Rae
+# Hello!
 
-### Get to know me.
-- 🔭 I’m currently working on BskyUsers
-- 📫 How to reach me: [BlueSky](https://bsky.social/profile/aykx.bsky.social)
-- 😄 Pronouns: any of them
-- ⚡ Fun fact: i used to make youtube videos
+## 🚀 About Me
+
+🎓 I am rae, a **muvafuka**
+
+👨‍💻 In my spare time, I enjoy making music and over the last 3 years had over 1 million streams across all platforms. 
+
+✈️ I love **traveling** around the globe, exploring new countries, cities and cultures
+
+## 🛠️ Skills
+
+### Languages
+
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![nodejs](https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Front-End Development
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+### Design Tools
+
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📈 Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=raedevs&show_icons=true&hide_border=true" alt="Rae's GitHub Stats">
+</div>
+
+<div align="center">
+    <img src="(https://lanyard.cnrad.dev/api/1300635824097857556)](https://discord.com/users/1300635824097857556" alt="Rae's Discord">
+</div>
+
+## 🔗 Links
+
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/raedevs)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raae.08/)
+[![bluesky](https://bsky.social/aykx.bsky.social)]
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1300635824097857556)](https://discord.com/users/1300635824097857556)
 
