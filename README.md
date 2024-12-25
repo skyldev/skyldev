@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-    <img src="(https://lanyard.cnrad.dev/api/1300635824097857556)](https://discord.com/users/1300635824097857556" alt="Rae's Discord">
+    <img src="https://lanyard.cnrad.dev/api/1300635824097857556" alt="Rae's Discord">
 </div>
 
 ## 🔗 Links
