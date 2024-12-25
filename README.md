@@ -40,7 +40,5 @@
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/raedevs)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raae.08/)
-[![bluesky](https://bsky.social/aykx.bsky.social)]
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1300635824097857556)](https://discord.com/users/1300635824097857556)
+[![bluesky](https://bsky.social/aykx.bsky.social)
 
