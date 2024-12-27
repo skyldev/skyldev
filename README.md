@@ -32,6 +32,8 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=raedevs&show_icons=true&theme=tokyonight&locale=en" alt="raedevs" /></p>
 
+</div>
+
 ## 🔗 Discord & Links
 
 [![Discord](https://lanyard.cnrad.dev/api/1300635824097857556)](https://discord.gg/QyD7heM7QE)
