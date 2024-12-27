@@ -4,7 +4,7 @@
 
 🎓 I am rae, a **muvafuka**
 
-👨‍💻 In my spare time, I enjoy making music and over the last 3 years had over 1 million streams across all platforms. 
+👨‍💻 In my spare time, I try to develop different things and make them cool (i think)
 
 ✈️ I love **traveling** around the globe, exploring new countries, cities and cultures
 
