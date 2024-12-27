@@ -1,4 +1,4 @@
-# Hello!
+# Hey! I'm Rae.
 
 ## 🚀 About Me
 
