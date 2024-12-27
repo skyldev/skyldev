@@ -28,9 +28,9 @@
 
 ## 📈 Stats
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=raedevs&show_icons=true&hide_border=true" alt="Rae's GitHub Stats">
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raedevs&show_icons=true&locale=en&layout=compact" alt="raedevs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raedevs&show_icons=true&theme=tokyonight&locale=en" alt="raedevs" /></p>
 
 <div align="center">
     <img src="https://lanyard.cnrad.dev/api/1300635824097857556" alt="Rae's Discord">
