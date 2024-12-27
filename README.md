@@ -28,11 +28,8 @@
 
 ## 📈 Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raedevs&show_icons=true&locale=en&layout=compact" alt="raedevs" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=raedevs&show_icons=true&theme=tokyonight&locale=en" alt="raedevs" /></p>
-
-</div>
+[![GitHub Top Lang Stats](https://github-readme-stats.vercel.app/api/top-langs?username=raedevs&show_icons=true&locale=en&layout=compact)](https://github.com/raedevs)
+[![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=raedevs&show_icons=true&theme=tokyonight&locale=en)](https://github.com/raedevs)
 
 ## 🔗 Discord & Links
 
