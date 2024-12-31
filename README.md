@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am rae, a **muvafuka**
+🎓 I am rae, a radio presenter, content creator + journalist based in cardiff
 
 👨‍💻 In my spare time, I try to develop different things and make them cool (i think)
 
@@ -28,12 +28,12 @@
 
 ## 📈 Stats
 
-[![GitHub Top Lang Stats](https://github-readme-stats.vercel.app/api/top-langs?username=raedevs&show_icons=true&locale=en&layout=compact)](https://github.com/raedevs)
-[![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=raedevs&show_icons=true&theme=tokyonight&locale=en)](https://github.com/raedevs)
+[![GitHub Top Lang Stats](https://github-readme-stats.vercel.app/api/top-langs?username=r4euk&show_icons=true&locale=en&layout=compact)](https://github.com/raedevs)
+[![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=r4euk&show_icons=true&theme=tokyonight&locale=en)](https://github.com/raedevs)
 
 ## 🔗 Discord & Links
 
-[![Discord](https://lanyard.cnrad.dev/api/1300635824097857556)](https://discord.gg/QyD7heM7QE)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/raedevs)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raae.08/)
-[![bluesky](https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=icloud&logoColor=white)](https://bsky.social/raefilms.bsky.social)
+[![Discord](https://lanyard.cnrad.dev/api/1300635824097857556)](https://discord.gg/qBpETatqz5)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/r4euk)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r4e.uk/)
+[![bluesky](https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=icloud&logoColor=white)](https://bsky.app/profile/r4e.uk)
