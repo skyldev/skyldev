@@ -35,5 +35,3 @@
 
 [![Discord](https://lanyard.cnrad.dev/api/366686299068956673)](https://discord.gg/y6anCC35UG)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/skyldev)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/5kyl3rxo)
-[![bluesky](https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=icloud&logoColor=white)](https://bsky.app/profile/femboysarevery.gay)
