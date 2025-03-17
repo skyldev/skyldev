@@ -8,6 +8,8 @@
 
 ✈️ I love **traveling** around the globe, exploring new countries, cities and cultures
 
+🦈 I am the Founder and Owner of [Blåhajs](https://blahajs.xyz), a Discord-Bot showcasing the best of the IKEA Plush.
+
 ## 🛠️ Skills
 
 ### Languages
@@ -28,10 +30,9 @@
 
 ## 📈 Stats
 
-[![GitHub Top Lang Stats](https://github-readme-stats.vercel.app/api/top-langs?username=r4euk&show_icons=true&locale=en&layout=compact)](https://github.com/raedevs)
-[![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=r4euk&show_icons=true&theme=tokyonight&locale=en)](https://github.com/raedevs)
+[![GitHub Top Lang Stats](https://github-readme-stats.vercel.app/api/top-langs?username=skyldev&show_icons=true&locale=en&layout=compact)](https://github.com/skyldev)
+[![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=skyldev&show_icons=true&theme=tokyonight&locale=en)](https://github.com/skyldev)
 
 ## 🔗 Discord & Links
 
 [![Discord](https://lanyard.cnrad.dev/api/366686299068956673)](https://discord.gg/y6anCC35UG)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/skyldev)
