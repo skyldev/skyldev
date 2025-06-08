@@ -2,13 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 Name is Skyler, I am a developer, content creator + journalist based in Cardiff & Belfast
+🎓 Name is Skyler, I am a developer, content creator + journalist based in sydney (au) + cardiff (uk)
 
 👨‍💻 In my spare time, I try to develop different things and make them cool (i think)
 
 ✈️ I love **traveling** around the globe, exploring new countries, cities and cultures
-
-🦈 I am the Founder and Owner of [Blåhajs](https://blahajs.xyz), a Discord-Bot showcasing the best of the IKEA Plush.
 
 ## 🛠️ Skills
 
